@@ -12,3 +12,6 @@
 - Validate api token before it's saved
 - Ask prompt to install not found command
 - Add feature for select commands and edit commands before run
+# v0.5.0
+- Interactive mode is terminate when error on command execution
+- New flag --explain to get explanations of generated command
