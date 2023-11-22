@@ -20,3 +20,5 @@
 - New flag --preferences to set up aiterm usage preferences
 # v0.6.1
 - Fix windows editor
+# v0.6.2
+- Update client version
