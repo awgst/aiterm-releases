@@ -22,3 +22,5 @@
 - Fix windows editor
 # v0.6.2
 - Update client version
+# v0.6.3
+- Fix command execution error and interactive mode on windows
