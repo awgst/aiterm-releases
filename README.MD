@@ -18,3 +18,5 @@
 # v0.6.0
 - Enhancement on interactive mode
 - New flag --preferences to set up aiterm usage preferences
+# v0.6.1
+- Fix windows editor
