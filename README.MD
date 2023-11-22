@@ -15,3 +15,6 @@
 # v0.5.0
 - Interactive mode is terminate when error on command execution
 - New flag --explain to get explanations of generated command
+# v0.6.0
+- Enhancement on interactive mode
+- New flag --preferences to set up aiterm usage preferences
