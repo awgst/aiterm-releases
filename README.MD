@@ -24,3 +24,7 @@
 - Update client version
 # v0.6.3
 - Fix command execution error and interactive mode on windows
+# v1.0.0
+- Enhancement on LLM
+- Command suggestion
+- Flow features
