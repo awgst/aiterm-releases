@@ -1,0 +1,5 @@
+298e6dd94fb3560d91636a67249ed1fa3317adb2917e7ba5251b25e8fb081918  aiterm_1.1.0_darwin_all.tar.gz
+3f134339ef7f68f8a8e1b2bcf4ad1cbde8cfddeb5e10df8621a75f55b4ac2d14  aiterm_1.1.0_linux_amd64.tar.gz
+9e11cf0a5255bc73a3dcf20716a3f4e43f1f61f5aed624642ecca6580a2c0c29  aiterm_1.1.0_linux_arm64.tar.gz
+e7e287ebd6c7699f4eb43796222c780478b24182f4b8747b22462c6fc4c83fd6  aiterm_1.1.0_windows_amd64.tar.gz
+2af886811d1eaae21d89a75a7780d369a4c02709b1c8f06f7fed79f9f6e907fc  aiterm_1.1.0_windows_arm64.tar.gz
