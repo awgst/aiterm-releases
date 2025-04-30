@@ -30,3 +30,7 @@
 - Flow features
 # v1.1.0
 - Fix connection problem
+# v1.2.2
+- AI enhancement
+- Self-updating
+- Better security
