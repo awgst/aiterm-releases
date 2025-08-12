@@ -34,3 +34,7 @@
 - AI enhancement
 - Self-updating
 - Better security
+# v1.3.0
+- Fix error on token
+- Client update
+- AI Improvements
